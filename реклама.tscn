@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://2ye61fmm0cyj"]
+
+[node name="реклама" type="Node2D"]
+scale = Vector2(1, 0.997934)

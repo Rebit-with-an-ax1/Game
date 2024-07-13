@@ -14,9 +14,9 @@ offset_bottom = 107.0
 text = "настройки"
 
 [node name="сохранения" type="Button" parent="."]
-offset_left = 359.0
+offset_left = 161.0
 offset_top = 153.0
-offset_right = 463.0
+offset_right = 256.0
 offset_bottom = 184.0
 text = "сохранения"
 
